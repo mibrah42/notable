@@ -2,9 +2,11 @@
 
 Note-taking made simple
 
+[notable.surge.sh](https://notable.surge.sh/)
+
+![notable](https://user-images.githubusercontent.com/26859947/121123407-2d8a0d80-c7f1-11eb-98de-c5c13a877c82.png)
+
 [Slides and Assets](https://drive.google.com/drive/folders/1mzqkhDY53__fdUqcy6j3Egw0EVrBm1Nv?usp=sharing)
-<br/>
-[Attendance](https://docs.google.com/spreadsheets/d/16qDvB8YZbs1CJi6l2qRJsTaFQSNEotjP1Z3H4EgcXAQ/edit#gid=1886061393)
 
 ### Create new project
 
