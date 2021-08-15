@@ -6,7 +6,7 @@ Note-taking made simple
 
 ![notable](https://user-images.githubusercontent.com/26859947/121123407-2d8a0d80-c7f1-11eb-98de-c5c13a877c82.png)
 
-[Slides and Assets](https://drive.google.com/drive/folders/1mzqkhDY53__fdUqcy6j3Egw0EVrBm1Nv?usp=sharing)
+[Slides and Assets](https://drive.google.com/drive/folders/1xbDWVOuSpHJqLab3py2FtvPHfjj0HYvG?usp=sharing)
 
 ### Create new project
 
