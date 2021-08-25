@@ -4,7 +4,7 @@ Note-taking made simple
 
 [notable.surge.sh](https://notable.surge.sh/)
 
-![notable](https://user-images.githubusercontent.com/26859947/121123407-2d8a0d80-c7f1-11eb-98de-c5c13a877c82.png)
+![notable_showcase](https://user-images.githubusercontent.com/26859947/130743438-ecfc329c-e25b-47fd-998d-fb147b2b05ce.png)
 
 [Slides and Assets](https://drive.google.com/drive/folders/1xbDWVOuSpHJqLab3py2FtvPHfjj0HYvG?usp=sharing)
 
